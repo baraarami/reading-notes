@@ -1,12 +1,4 @@
- For the someone who read this , hello , i'm hopeing that you're doing will   ! :smiling_face_with_three_hearts:
-
-My name is bara'a rami al-jahmani :blush: , i'm 22 years old , , a fresh graduated student from yarmouk university , my major was management information system , my grade when i gratuated was good .
-
-I've done a website using HTML ,css , and JS langueges , it's talking about marine life and how they live in thier , what they wearing , each color represint for any battalion , the typs of ships and which organisation they followes .
-
-My second project was my graduation project i've used visual basic to do it . it was talking about how to convert takeing attendance and absence manually to computarised way and attach an execuse why they absence .
  
- Today we will talk about  
  # Growth Mindset  :brain: :nerd_face: 
  
 The growth mindset can open pathways to more creativity and possibility , and enable the setting of higher goals and more achievement.
@@ -61,3 +53,14 @@ I’ve found that taking the time to assess what I’m doing is tremendously eff
   
 ~~ If you like what you have read i will pleasure to haveing you in my github account and this is the link that will tke you there 
 [Bara'a jahmani](https://github.com/baraarami)~~ ..
+
+
+
+ For the someone who read this , hello , i'm hopeing that you're doing will   ! :smiling_face_with_three_hearts:
+ 
+i'm hopeing you enjoy reading these words , and ya My name is bara'a rami al-jahmani :blush: , i'm 22 years old , , a fresh graduated student from yarmouk university , my major was management information system , my grade when i gratuated was good .
+
+I've done a website using HTML ,css , and JS langueges , it's talking about marine life and how they live in thier , what they wearing , each color represint for any battalion , the typs of ships and which organisation they followes .
+
+My second project was my graduation project i've used visual basic to do it . it was talking about how to convert takeing attendance and absence manually to computarised way and attach an execuse why they absence .
+ 

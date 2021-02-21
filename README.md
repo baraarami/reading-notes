@@ -1,4 +1,4 @@
- # Growth Mindset
+ # Growth Mindset  :brain: :nerd_face: 
 The growth mindset can open pathways to more creativity and possibility , and enable the setting of higher goals and more achievement.
 
 A growth mindset believes that one’s fundamental abilities can be developed through perseverance and effort; intelligence and talent are simply good starting points. A growth mindset is synonymous with a love of learning.
@@ -22,7 +22,7 @@ There is a two different mindset :
          
          
          
-  You will face many difficult stages and challenges in the beginning , but it's ok as mr.yahya saids couse it's normally to get confused .
+  You will face many difficult stages and challenges in the beginning  :exploding_head: , but it's ok as mr.yahya saids couse it's normally to get confused .
   Then we saids that when we hit a roadblock we shoud get over it and solve it if it bossible . do more effort , and i also find it useful to review each of my days and assess how I’ve done .So I’ve learned today to ask myself two questions:
 
 1. What was the best part of the day?
@@ -39,11 +39,13 @@ I’ve found that taking the time to assess what I’m doing is tremendously eff
 
 2.  I Replace the word “failing” with the word “learning.”
 
-" When i make a mistake or fall short of a goal, i haven’t failed; i’ve learned. "
+" When i make a mistake or fall short of a goal, i haven’t failed; i’ve learned." 
 
-3.  Highlight the relationship between learning and “brain training.
+3.  Highlight the relationship between learning and brain training.
 
 " The brain is like a muscle that needs to be worked out, just like the body."
   
+  And if you wont to know more about Growth mindset have this website a visit
   
+  [growth mindset](https://www.atlassian.com/blog/inside-atlassian/growth-mindset)
   

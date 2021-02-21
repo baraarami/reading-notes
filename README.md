@@ -40,7 +40,7 @@ I’ve found that taking the time to assess what I’m doing is tremendously eff
 " When i make a mistake or fall short of a goal, i haven’t failed; i’ve learned. "
 
 3.  Highlight the relationship between learning and “brain training.
-" The brain is like a muscle that needs to be worked out, just like the body. "
+" The brain is like a muscle that needs to be worked out, just like the body."
   
   
   

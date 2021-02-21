@@ -56,7 +56,7 @@ I’ve found that taking the time to assess what I’m doing is tremendously eff
 
 
 
- For the someone who read this , hello , i'm hopeing that you're doing will   ! :smiling_face_with_three_hearts:
+# For the someone who read this , hello , i'm hopeing that you're doing will   ! :smiling_face_with_three_hearts:
  
 i'm hopeing you enjoy reading these words , and ya My name is bara'a rami al-jahmani :blush: , i'm 22 years old , , a fresh graduated student from yarmouk university , my major was management information system , my grade when i gratuated was good .
 

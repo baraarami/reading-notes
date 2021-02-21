@@ -2,9 +2,12 @@
 
  In this time we will talk about Markdown , what it is , and where to use it .
 
+ ![markdown](https://justyy.com/wp-content/uploads/2016/01/markdown-syntax-language.png )
+
+
 # What is Markdown ?
 
-Markdown is a way to style text on the web. You control the display of the document; formatting words as bold or italic, adding images, and creating lists are just a few of the things we can do with Markdown.
+Markdown is a way to style text on the web and it's another way to write HTML pages. You control the display of the document; formatting words as bold or italic, adding images, and creating lists are just a few of the things we can do with Markdown.
 Mostly, Markdown is just regular text with a few non-alphabetic characters thrown in, like # or *.
 
 we can use Markdown most places around GitHub:
@@ -45,3 +48,6 @@ we can use in it :
 8. Strikethrough
 
 9. And the most interesting thing is we can use Emoji :heart_eyes:. 
+
+
+~ that was all i got in my mind about Markdown ~

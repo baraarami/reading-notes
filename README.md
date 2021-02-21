@@ -59,4 +59,5 @@ I’ve found that taking the time to assess what I’m doing is tremendously eff
   
  (  [growth mindset](https://www.atlassian.com/blog/inside-atlassian/growth-mindset) )
   
-~~ If you like what you have read i will pleasure to haveing you in my github account  ~~
+~~ If you like what you have read i will pleasure to haveing you in my github account and this is the link that will tke you there 
+[my github account ](https://github.com/baraarami)~~

@@ -47,5 +47,5 @@ I’ve found that taking the time to assess what I’m doing is tremendously eff
   
   And if you wont to know more about Growth mindset have this website a visit
   
-  [growth mindset](https://www.atlassian.com/blog/inside-atlassian/growth-mindset)
+ (  [growth mindset](https://www.atlassian.com/blog/inside-atlassian/growth-mindset) )
   

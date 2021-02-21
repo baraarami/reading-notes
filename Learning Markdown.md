@@ -30,7 +30,7 @@ we can use Markdown most places around GitHub:
 we can use in it :
 1. Syntax highlighting
 
-2. Task Lists
+2. Task Lists .
 
 3. Tables
 

@@ -34,12 +34,15 @@ I’ve found that taking the time to assess what I’m doing is tremendously eff
 
 # There are 3 reminders to myself of how to keep me in a growth mindset:
 1.  Acknowledge and embrace imperfections.
+
 " Hiding from your weaknesses means you’ll never overcome them."
 
 2.  I Replace the word “failing” with the word “learning.”
+
 " When i make a mistake or fall short of a goal, i haven’t failed; i’ve learned. "
 
 3.  Highlight the relationship between learning and “brain training.
+
 " The brain is like a muscle that needs to be worked out, just like the body."
   
   

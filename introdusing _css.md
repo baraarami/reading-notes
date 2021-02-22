@@ -27,3 +27,19 @@ specifies Arial as the preferred typeface.
 
 CSS rules usually appear in a separate document,
 although they may appear within an HTML page.
+
+
+Color not only brings your site to life, but also helps
+convey the mood and evokes reactions.
+
+There are three ways to specify colors in CSS:
+* RGB values 
+* hex codes
+* and color names.
+
+
+It is important to ensure that there is enough contrast
+between any text and the background color.
+
+CSS3 has introduced an extra value for RGB colors to
+indicate opacity. It is known as RGBA. also allows you to specify colors as HSL values, with an optional opacity value. It is known as HSLA.

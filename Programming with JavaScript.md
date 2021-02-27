@@ -11,11 +11,11 @@ learning to program with *JavaScript* involves :
 # Before you learn how to read and write the javascript language itself , you need to becone familiar with some key concepts 
 in computer programing . they will be converedin three sections:
 * A :
- What is a consipt and hoe do I creat one ?
- * B :
- how do computers fit in with the world around them ?
- * C :
- how do I write a script for a web page ?
+What is a consipt and hoe do I creat one ?
+* B :
+How do computers fit in with the world around them ?
+* C :
+How do I write a script for a web page ?
  
  
  # what is script ?

@@ -1,4 +1,4 @@
-##Responsive Web Design
+## Responsive Web Design
 
 
 The Internet took off quicker than anyone would have predicted, growing like crazy. Now, for the past few years, mobile growth has exploded onto the scene. The growth of mobile Internet usage is also far out pacing that of general Internet usage growth.

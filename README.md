@@ -10,9 +10,9 @@
 
 pages | links | 
 ---------| ----------- |
-Mindset | [Mindset](https://baraarami.github.io/reading-notes/)| 
-Markdowm | [Markdowm](https://github.com/baraarami/reading-notes/blob/main/Learning%20Markdown.md)|
-Git | [Git](https://baraarami.github.io/reading-notes/)|   
+Mindset | [Mindset](https://baraarami.github.io/reading-notes/Mindset)| 
+Markdowm | [Markdowm](https://baraarami.github.io/reading-notes/Learning%20Markdown)|
+Git | [Git](https://baraarami.github.io/reading-notes/Git%20intro)|   
 
 
 

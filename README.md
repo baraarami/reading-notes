@@ -43,7 +43,7 @@ Class14| [PAGE14](https://baraarami.github.io/code-201_READING-NOTE/class-13-CSS
 
 Contant | Page number  | 
 ---------| ----------- |
-Class1 | [PAGE1]()| 
+Class1 | [PAGE1](https://baraarami.github.io/reading-notes/jQuery%2C%20Events%2C%20and%20The%20DOM)| 
 Class2 | [PAGE2]()|
 Class3 | [PAGE3]()|   
 Class4 | [PAGE4]()|   

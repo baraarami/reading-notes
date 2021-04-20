@@ -43,10 +43,10 @@ Class14| [PAGE14](https://baraarami.github.io/code-201_READING-NOTE/class-13-CSS
 
 Contant | Page number  | 
 ---------| ----------- |
-Class1 | [PAGE1](https://baraarami.github.io/reading-notes/jQuery%2C%20Events%2C%20and%20The%20DOM)| 
-Class2 | [PAGE2]()|
-Class3 | [PAGE3]()|   
-Class4 | [PAGE4]()|   
+Class1 | [RESPONSIVE WEB DESIGN and FLOATS](https://baraarami.github.io/reading-notes/RESPONSIVE%20WEB%20DESIGN%20and%20FLOATS)| 
+Class2 | [JQUERY](https://baraarami.github.io/reading-notes/jQuery%2C%20Events%2C%20and%20The%20DOM)|
+Class3 | [MUSTACHE and FLEXBOX](https://baraarami.github.io/reading-notes/MUSTACHE%20and%20FLEXBOX)|   
+Class4 | [CSS GRID](https://baraarami.github.io/reading-notes/CSS-GRID)|   
 Class5 | [PAGE5]()|   
 Class6 | [PAGE6]()|  
 Class7 | [PAGE7]()|  

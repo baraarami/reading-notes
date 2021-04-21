@@ -47,7 +47,7 @@ Class1 | [RESPONSIVE WEB DESIGN and FLOATS](https://baraarami.github.io/reading-
 Class2 | [JQUERY](https://baraarami.github.io/reading-notes/jQuery%2C%20Events%2C%20and%20The%20DOM)|
 Class3 | [MUSTACHE and FLEXBOX](https://baraarami.github.io/reading-notes/MUSTACHE%20and%20FLEXBOX)|   
 Class4 | [CSS GRID](https://baraarami.github.io/reading-notes/CSS-GRID)|   
-Class5 | [PAGE5]()|   
+Class5 | [Heroku Deployment](https://baraarami.github.io/reading-notes/Heroku%20Deployment)|   
 Class6 | [PAGE6]()|  
 Class7 | [PAGE7]()|  
 Class8 | [PAGE8]()|   

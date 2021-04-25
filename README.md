@@ -48,7 +48,7 @@ Class2 | [JQUERY](https://baraarami.github.io/reading-notes/jQuery%2C%20Events%2
 Class3 | [MUSTACHE and FLEXBOX](https://baraarami.github.io/reading-notes/MUSTACHE%20and%20FLEXBOX)|   
 Class4 | [CSS GRID](https://baraarami.github.io/reading-notes/CSS-GRID)|   
 Class5 | [Heroku Deployment](https://baraarami.github.io/reading-notes/Heroku%20Deployment)|   
-Class6 | [PAGE6]()|  
+Class6 | [NODE.JS](https://baraarami.github.io/reading-notes/NODE.JS)|  
 Class7 | [PAGE7]()|  
 Class8 | [PAGE8]()|   
 Class9 | [PAGE9]()|   

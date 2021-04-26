@@ -50,7 +50,7 @@ Class4 | [CSS GRID](https://baraarami.github.io/reading-notes/CSS-GRID)|
 Class5 | [Heroku Deployment](https://baraarami.github.io/reading-notes/Heroku%20Deployment)|   
 Class6 | [NODE.JS](https://baraarami.github.io/reading-notes/NODE.JS)|  
 Class7 | [REST](https://baraarami.github.io/reading-notes/REST)|  
-Class8 | [PAGE8]()|   
+Class8 | [SQL](https://baraarami.github.io/reading-notes/SQL)|   
 Class9 | [PAGE9]()|   
 Class10| [PAGE10]()|  
 Class11| [PAGE11]()| 

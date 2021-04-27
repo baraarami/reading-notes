@@ -51,7 +51,7 @@ Class5 | [Heroku Deployment](https://baraarami.github.io/reading-notes/Heroku%20
 Class6 | [NODE.JS](https://baraarami.github.io/reading-notes/NODE.JS)|  
 Class7 | [REST](https://baraarami.github.io/reading-notes/REST)|  
 Class8 | [SQL](https://baraarami.github.io/reading-notes/SQL)|   
-Class9 | [PAGE9]()|   
+Class9 | [Refactoring](https://baraarami.github.io/reading-notes/Refactoring)|   
 Class10| [PAGE10]()|  
 Class11| [PAGE11]()| 
 Class12| [PAGE12]()| 

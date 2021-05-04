@@ -56,7 +56,7 @@ Class10| [The Call Stack and Debugging](https://baraarami.github.io/reading-note
 Class11| [EJS](https://baraarami.github.io/reading-notes/EJS)| 
 Class12| [EJS PARTIALS](https://baraarami.github.io/reading-notes/EJS%20PARTIALS)| 
 Class13| [ SENDING FORM DATA](https://baraarami.github.io/reading-notes/SENDING%20FORM%20DATA)| 
-Class14| [PAGE14]()| 
+Class14| [DATABASE NORMALIZATION](https://baraarami.github.io/reading-notes/DATABASE%20NORMALIZATION)| 
 Class14| [PAGE15]()|
 
 

@@ -66,7 +66,7 @@ Class14| [Diversity and Inclusion](https://baraarami.github.io/reading-notes/Div
 Contant | Page number  | 
 ---------| ----------- |
 Class1 | [Java Basics](https://baraarami.github.io/reading-notes/Java%20Basics)| 
-Class2 | [PAGE2]()|
+Class2 | [Maps, primitives, File I/O](https://baraarami.github.io/reading-notes/Maps%2C%20primitives%2C%20File%20I%20%2C%20O%20)|
 Class3 | [PAGE3]()|   
 Class4 | [PAGE4]()|   
 Class5 | [PAGE5]()|   

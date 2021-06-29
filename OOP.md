@@ -46,6 +46,7 @@ They look the same as the decimal numbers up to 9, but then there are the letter
 So a single Hexadecimal digit can show 16 different values instead of the normal 10 like this:
 
 | Decimal: |	0 |	1 |	2 |	3 |	4 |	5 |	6 |	7 |	8 |	9 |	10 |	11 |	12 |	13 |	14 |	15 |
+|----------|----|---|---|---|---|---|---|---|---|---|----|-----|-----|-----|-----|-----|
 | Hexadecimal: |	0 |	1 |	2 |	3 |	4 |	5 |	6 |	7 |	8 |	9 |	A |	B |	C |	D |	E |	F |
 
 

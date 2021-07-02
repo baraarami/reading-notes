@@ -1,44 +1,39 @@
 # Packages and Import
 
-Package = directory. Java classes can be grouped together in packages.
 
-The first statement, other than comments, in a Java source file, must be the package declaration.
-
-Package declaration syntax
-The statement order is as follows. Comments can go anywhere.
-
-1) Package statment (optional).
-2) Imports (optional).
-3) Class or interface definitions.
+Package declaration :
+The fist statment , other than comments , in java a source file , must be the pacage declaration .
 
 
-// This source file must be Drawing.java in the illustration directory.
+you can have *import* statments , which allow you to specify classes from other packages that can be referenced without qualifuing them with thier package .
 
-package illustration;
-
-import java.awt.*;
-
-public class Drawing {
-    . . .
-}
+### Package declaration syntax :
+1. package statment (optional) 
+2. Import (optional)
+3. Class or interface definition 
 
 
- ## Common imports
-import java.awt.; Common GUI elements. import java.awt.event.; The most common GUI event listeners. import javax.swing.; More common GUI elements. Note "javax". import java.util.; Data structures (Collections), time, Scanner, etc classes. import java.io.; Input-output classes. import java.text.; Some formatting classes. import java.util.regex.*; Regular expression classes.
+### Common import :
+there are 166 packages containing 3279 classes and intrfaces in java 5 , some of these impotrs are :
 
-## import FAQ
-Q: I've imported java.awt., why do I also need java.awt.event.? A: The wildcard "*" only makes the classes in this package visible, not any of the subpackages.
+1.import java.awt.*;	Common GUI elements.
+2.import java.awt.event.*;	The most common GUI event listeners.
+3.import javax.swing.*;	More common GUI elements. Note "javax".
+4.import java.util.*;	Data structures (Collections), time, Scanner, etc classes.
+5.import java.io.*;	Input-output classes.
+6.import java.text.*;	Some formatting classes.
+7.import java.util.regex.*;	Regular expression classes.
 
-Q: Why don't I need an import to use String, System, etc? A: All classes in the java.lang package are visible without an import.
 
-Different types of loops in Java
-j,bh
 
-## Here are the types of loops that we can find in Java:
-Simple for loop Enhanced for-each loop While loop Do-While loop
 
-1) For - repeat by incrementing a counter
+### In programming languages , looping is a feature which facilitates the execution of a set of instructions until the controlling Boolean expression evaluates to false .
 
-2) While - repeat while true
 
-3) Do-While - first conditional evaluation happens after first iteration
+# Here Are the type of loops that we can find in java :
+1.simple for loop
+2.Enhanced for-each loop 
+3.while loop
+4.do while loop
+
+

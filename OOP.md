@@ -2,24 +2,23 @@
 
 
 ### What Is an Object?
-
-are key to understanding object-oriented technology , Real-world objects share two characteristics: They all have state and behavior.
-
-
-Software objects are conceptually similar to real-world objects: they too consist of state and related behavior. An object stores its state in fields (variables in some programming languages) and exposes its behavior through methods (functions in some programming languages).
+An object is a software bundle od related stste and behavior .
+software objects are often used in model real world objects that you find in everyday life 
 
 
-# Bundling code into individual software objects provides a number of benefits, including:
+### What Is a class ?
+is a blueprint or prototype from which object are created . it intentionally focuses on the basics , showing how even a simple class can cleanly model state and behavior.
 
-** Modularity: The source code for an object can be written and maintained independently of the source code for other objects. Once created, an object can be easily passed around inside the system.
-** Information-hiding: By interacting only with an object's methods, the details of its internal implementation remain hidden from the outside world.
-** Code re-use: If an object already exists (perhaps written by another software developer), you can use that object in your program. This allows specialists to implement/test/debug complex, task-specific objects, which you can then trust to run in your own code.
-** Pluggability and debugging ease: If a particular object turns out to be problematic, you can simply remove it from your application and plug in a different object as its replacement. This is analogous to fixing mechanical problems in the real world. If a bolt breaks, you replace it, not the entire machine.
+""""""""""""""""""(coted)
+You've seen classes defined in the following way:
 
+class MyClass {
+    // field, constructor, and 
+    // method declarations
+}
+This is a class declaration. The class body (the area between the braces) contains all the code that provides for the life cycle of the objects created from the class: constructors for initializing new objects, declarations for the fields that provide the state of the class and its objects, and methods to implement the behavior of the class and its objects.
 
-A class declaration names the class and encloses the class body between braces. The class name can be preceded by modifiers. The class body contains fields, methods, and constructors for the class. A class uses fields to contain state information and uses methods to implement behavior. Constructors that initialize a new instance of a class use the name of the class and look like methods without a return type.
-
-You control access to classes and members in the same way: by using an access modifier such as public in their declaration.
+""""""""""""""""""
 
 
 

@@ -32,8 +32,11 @@ there are 166 packages containing 3279 classes and intrfaces in java 5 , some of
 
 # Here Are the type of loops that we can find in java :
 1.simple for loop
+
 2.Enhanced for-each loop 
+
 3.while loop
+
 4.do while loop
 
 

@@ -69,7 +69,7 @@ Class1 | [Java Basics](https://baraarami.github.io/reading-notes/Java%20Basics)|
 Class2 | [Arrays, Loops, Imports](https://baraarami.github.io/reading-notes/Arrays%2C%20Loops%2C%20Imports)|
 Class3 | [Maps, primitives, File I/O](https://baraarami.github.io/reading-notes/Maps%2C%20primitives%2C%20File%20I%20%2C%20O%20)|   
 Class4 | [OOP](https://baraarami.github.io/reading-notes/OOP)|   
-Class5 | []()|   
+Class5 | [Inheritance and Interfaces](https://baraarami.github.io/reading-notes/Inheritance%20and%20Interfaces)|   
 Class6 | [PAGE6]()|  
 Class7 | [PAGE7]()|  
 Class8 | [PAGE8]()|   

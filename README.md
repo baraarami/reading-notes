@@ -74,7 +74,7 @@ Class6 | [PAGE6]()|
 Class7 | [PAGE7]()|  
 Class8 | [PAGE8]()|   
 Class9 | [PAGE9]()|   
-Class10| [PAGE10]()|  
+Class10| [Stackes And Queues](https://baraarami.github.io/reading-notes/Stacks%20and%20Queues)|  
 Class11| [PAGE11]()| 
 Class12| [PAGE12]()| 
 Class13| [PAGE13]()| 

@@ -73,7 +73,7 @@ Class5 | [Inheritance and Interfaces](https://baraarami.github.io/reading-notes/
 Class6 | [PAGE6]()|  
 Class7 | [PAGE7]()|  
 Class8 | [OO design](https://baraarami.github.io/reading-notes/OO%20Design)|   
-Class9 | [PAGE9]()|   
+Class9 | [WRRC And Java](https://baraarami.github.io/reading-notes/WRRC%20and%20Java)|   
 Class10| [Stackes And Queues](https://baraarami.github.io/reading-notes/Stacks%20and%20Queues)|  
 Class11| [PAGE11]()| 
 Class12| [PAGE12]()| 

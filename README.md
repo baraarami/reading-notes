@@ -72,7 +72,7 @@ Class4 | [OOP](https://baraarami.github.io/reading-notes/OOP)|
 Class5 | [Inheritance and Interfaces](https://baraarami.github.io/reading-notes/Inheritance%20and%20Interfaces)|   
 Class6 | [PAGE6]()|  
 Class7 | [PAGE7]()|  
-Class8 | [PAGE8]()|   
+Class8 | [OO design](https://baraarami.github.io/reading-notes/OO%20Design)|   
 Class9 | [PAGE9]()|   
 Class10| [Stackes And Queues](https://baraarami.github.io/reading-notes/Stacks%20and%20Queues)|  
 Class11| [PAGE11]()| 

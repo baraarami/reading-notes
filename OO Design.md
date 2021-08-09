@@ -1,31 +1,45 @@
-# SOLID 
+# OO Design
+## SOLID principles 
 
-### What the SOLID is/are ?
+![](https://devopedia.org/images/article/177/8101.1558682601.png)
 
-First of all let's see what's stand for :
-The letter "*S*"is for :  Single-responsiblity Principle
-The letter "*O*"is for :  Open-closed Principle
-The letter "*L*"is for :  Liskov Substitution Principle
-The letter "*I*"is for :  Interface Segregation Principle
-The letter "*D*"is for :  Dependency Inversion Principle
+# OO SOLID principles in real life
 
-It's an acronym for the first five object-oriented design (OOD) principles.
+## s is for single responsibility principle
 
-## The Single-responsiblity Principle what it is doing ?
- A class should have one and only one reason to change, meaning that a class should have only one job.
- 
- 
- ## The Open-closed Principle what it is doing ?
- Objects or entities should be open for extension but closed for modification.
-*This means that a class should be extendable without modifying the class itself.*
- 
- ## The Liskov Substitution Principle what it is doing ?
- Let q(x) be a property provable about objects of x of type T. Then q(y) should be provable for objects y of type S where S is a subtype of T.
- *This means that every subclass or derived class should be substitutable for their base or parent class.*
+by way of counter-example, consider a class that opens a connection to the database, pulls out some table data, and writes the data to a file. this class has multiple reasons to change: adoption of a new database, modified file output format, deciding to use an orm, etc.  in terms of the srp, we'd say that this class is doing too much.
 
-## The  Interface Segregation Principle what it is doing ?
-A client should never be forced to implement an interface that it doesn’t use, or clients shouldn’t be forced to depend on methods they do not use.
+## o is for open/closed principle
 
-## The Dependency Inversion Principle what it is doing ?
-Entities must depend on abstractions, not on concretions. It states that the high-level module must not depend on the low-level module, but they should depend on abstractions.
-##### *This principle allows for decoupling.*
+- a great example of this in real life is  a smartphone. all such phones have app stores and these app stores let you extend the base functionality of the phone. the mechanism that allows you to do this is purely one of extension, however. 
+
+## l is for liskov substitution principle
+
+
+in other words, if you have a class, animal, with a makenoise() method, then any subclass of animal should reasonably implement makenoise(). cats should meow, dogs should bark, etc. what you wouldn't do is define a mutemouse class that throws idontactuallymakenoiseexception. this violates the lsp, and the argument would be that this class has no business inheriting from animal.
+
+
+## i is for interface segregation principle
+
+to picture this in the real world, think of going down to your local corner restaurant and checking out the menu. you'll see all of the normal menu mainstays, and then something that's just called "soup of the day." why do they do this? because the soup changes a lot and there's no sense reprinting the menus every day. clients that don't care about the soup needn't even be concerned, and clients that do use a different interface -- asking the server.
+
+## d is for dependency inversion
+
+to visualize this in your day to day, go down to your local store and pay for something with a credit card. the clerk doesn't examine your card and get out the "visa machine" after seeing that your card is a visa. he just takes your card, whatever it is, and swipes it. both you and the clerk depend on the credit card abstraction without worrying about specifics.
+
+## [OO SOLID principles in real life](https://dzone.com/articles/the-solid-principles-in-real-life)
+
+**SOLID principles in real life**
+* S - single responsibility principle - class or module should have only one reason to change
+  - Real life example - the "duck" vehicle are street legal and water-capable, and they only change from driving on land to going out on the water, and from being driven in the water to land.
+* O - open/closed principle -  a class that does what it needs to flawlessly and does not need to be changed later, but can be extended.
+  - Real life example - a smart phone that doesn't need to be changed itself, but you can add apps on the phone.
+* L - liskov substitution principle - any child type of a parent type should be able to stand in for that parent 
+  - Real life example - Cooking stew with various ingredients in the stew, while asking if the ingredients are edible or not.
+* I - interface segregation principle - don't want to force clients to depend on things they don't actually need
+  - Real life example - The soup of the day on a menu at a restuarant. The reason why it only says soup of the day is because it changes everyday.
+* D - dependency inversion - depends upon abstractions rather than upon concrete details
+  - Real life example - Using a credit card to pay groceries with, and the clerk swiping your credit card with a visa machine.
+
+
+
